@@ -1,5 +1,5 @@
 var navbar=document.createElement("navbar");
-navbar.textContent="This is my navbar";
+navbar.textContent="Home     About    Products";
 document.body.appendChild(navbar);
 
 var h1=document.createElement("h1");
