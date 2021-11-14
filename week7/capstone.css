@@ -1,0 +1,42 @@
+*content{
+	columns: 3; ;
+	gap:1em ;
+	width: 80%;
+	max-width:700px ;
+	margin:0 auto ;
+	justify-content: center;
+	display: flex;
+	display: grid;
+	position: relative;
+}
+
+*body{
+	background-color: blueviolet;
+	justify-content: center;
+}
+
+.navbar:hover {
+	border-bottom: 3px solid red;
+
+table, th, td {
+		border: 1px solid black;
+	    }
+	    th, td {
+		padding: 10px;
+	    }
+
+ 
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+	body {
+	  background-color: blue;
+	}
+      }
